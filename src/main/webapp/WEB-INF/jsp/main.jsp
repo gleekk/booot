@@ -1516,7 +1516,7 @@
             <script src="http://maps.google.com/maps/api/js?sensor=true"></script>
         </div>
     </div>
-    <script type="text/javascript" src="./assets/scripts/main.js"></script>
+    <script type="text/javascript" src="${pageContext.request.contextPath}/resources/bootstrap/assets/scripts/main.js"></script>
 </body>
 
 </html>
