@@ -1,4 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=EUC-KR"
+<%@ page language="java" contentType="text/html; charset=UTF-8"
          pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 
@@ -100,7 +100,7 @@
                                     <div class="btn-group">
                                         <a data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
                                             class="p-0 btn">
-                                            <img width="42" class="rounded-circle" src="assets/images/avatars/1.jpg"
+                                            <img width="42" class="rounded-circle" src="${pageContext.request.contextPath}/resources/bootstrap/assets/images/avatars/1.jpg"
                                                 alt="">
                                             <i class="fa fa-angle-down ml-2 opacity-8"></i>
                                         </a>
@@ -897,7 +897,7 @@
                                                                 <div class="widget-content-wrapper">
                                                                     <div class="widget-content-left mr-3">
                                                                         <img width="42" class="rounded-circle"
-                                                                            src="assets/images/avatars/9.jpg" alt="">
+                                                                            src="${pageContext.request.contextPath}/resources/bootstrap/assets/images/avatars/9.jpg" alt="">
                                                                     </div>
                                                                     <div class="widget-content-left">
                                                                         <div class="widget-heading">Ella-Rose Henry
@@ -922,7 +922,7 @@
                                                                 <div class="widget-content-wrapper">
                                                                     <div class="widget-content-left mr-3">
                                                                         <img width="42" class="rounded-circle"
-                                                                            src="assets/images/avatars/5.jpg" alt="">
+                                                                            src="${pageContext.request.contextPath}/resources/bootstrap/assets/images/avatars/5.jpg" alt="">
                                                                     </div>
                                                                     <div class="widget-content-left">
                                                                         <div class="widget-heading">Ruben Tillman</div>
@@ -945,7 +945,7 @@
                                                                 <div class="widget-content-wrapper">
                                                                     <div class="widget-content-left mr-3">
                                                                         <img width="42" class="rounded-circle"
-                                                                            src="assets/images/avatars/4.jpg" alt="">
+                                                                            src="${pageContext.request.contextPath}/resources/bootstrap/assets/images/avatars/4.jpg" alt="">
                                                                     </div>
                                                                     <div class="widget-content-left">
                                                                         <div class="widget-heading">Vinnie Wagstaff
@@ -970,7 +970,7 @@
                                                                 <div class="widget-content-wrapper">
                                                                     <div class="widget-content-left mr-3">
                                                                         <img width="42" class="rounded-circle"
-                                                                            src="assets/images/avatars/3.jpg" alt="">
+                                                                            src="${pageContext.request.contextPath}/resources/bootstrap/assets/images/avatars/3.jpg" alt="">
                                                                     </div>
                                                                     <div class="widget-content-left">
                                                                         <div class="widget-heading">Ella-Rose Henry
@@ -995,7 +995,7 @@
                                                                 <div class="widget-content-wrapper">
                                                                     <div class="widget-content-left mr-3">
                                                                         <img width="42" class="rounded-circle"
-                                                                            src="assets/images/avatars/2.jpg" alt="">
+                                                                            src="${pageContext.request.contextPath}/resources/bootstrap/assets/images/avatars/2.jpg" alt="">
                                                                     </div>
                                                                     <div class="widget-content-left">
                                                                         <div class="widget-heading">Ruben Tillman</div>
@@ -1266,7 +1266,7 @@
                                                             <div class="widget-content-left mr-3">
                                                                 <div class="widget-content-left">
                                                                     <img width="40" class="rounded-circle"
-                                                                        src="assets/images/avatars/4.jpg" alt="">
+                                                                        src="${pageContext.request.contextPath}/resources/bootstrap/assets/images/avatars/4.jpg" alt="">
                                                                 </div>
                                                             </div>
                                                             <div class="widget-content-left flex2">
@@ -1294,7 +1294,7 @@
                                                             <div class="widget-content-left mr-3">
                                                                 <div class="widget-content-left">
                                                                     <img width="40" class="rounded-circle"
-                                                                        src="assets/images/avatars/3.jpg" alt="">
+                                                                        src="${pageContext.request.contextPath}/resources/bootstrap/assets/images/avatars/3.jpg" alt="">
                                                                 </div>
                                                             </div>
                                                             <div class="widget-content-left flex2">
@@ -1322,7 +1322,7 @@
                                                             <div class="widget-content-left mr-3">
                                                                 <div class="widget-content-left">
                                                                     <img width="40" class="rounded-circle"
-                                                                        src="assets/images/avatars/2.jpg" alt="">
+                                                                        src="${pageContext.request.contextPath}/resources/bootstrap/assets/images/avatars/2.jpg" alt="">
                                                                 </div>
                                                             </div>
                                                             <div class="widget-content-left flex2">
@@ -1350,7 +1350,7 @@
                                                             <div class="widget-content-left mr-3">
                                                                 <div class="widget-content-left">
                                                                     <img width="40" class="rounded-circle"
-                                                                        src="assets/images/avatars/1.jpg" alt=""></div>
+                                                                        src="${pageContext.request.contextPath}/resources/bootstrap/assets/images/avatars/1.jpg" alt=""></div>
                                                             </div>
                                                             <div class="widget-content-left flex2">
                                                                 <div class="widget-heading">Vinnie Wagstaff</div>
